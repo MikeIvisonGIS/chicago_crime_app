@@ -1,0 +1,5 @@
+altair==5.1.2
+folium==0.14.0
+pandas==2.1.2
+streamlit==1.27.2
+streamlit_folium==0.15.0
